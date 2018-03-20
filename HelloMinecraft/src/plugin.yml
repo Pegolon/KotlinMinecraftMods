@@ -1,0 +1,7 @@
+name: HelloMinecraft
+version: 1.0
+main: mymods.HelloMinecraft
+
+commands:
+  hello:
+    description: Say hello!
